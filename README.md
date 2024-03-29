@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm SGHIR MOHAMED</h1>
-<h3 align="center">A passionate Symfony backend developer from Morocco</h3>
+<h3 align="center">It engineer student from Morocco</h3>
 
 
 
-- 🔭 I’m currently working on **Ecommerce project management**
+- 🔭 I’m currently working on **Ecommerce project management SOPHACHARK**
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning on EHEI 
 
 - 📫 How to reach me **Mohammed.sg1200@gmail.com**
 
