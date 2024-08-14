@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Ecommerce project management SOPHACHARK**
+- 🔭 I’m currently working on **Lms project with Nismatech && BookNest Personal project**
 
 - 🌱 I’m currently learning on EHEI 
 
