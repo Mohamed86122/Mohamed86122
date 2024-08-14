@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed86122&show_icons=true&locale=en&layout=compact" alt="mohamed86122" /></p>
 
-<a href="https://app.daily.dev/mohamed6406"><img src="https://api.daily.dev/devcards/v2/3inRg3izDOFDeGOzY8Kuc.png?type=default&r=r32" width="356" alt="Mohamed SGHIR's Dev Card"/></a>
+<a href="https://app.daily.dev/mohamed6406"><img src="https://api.daily.dev/devcards/v2/3inRg3izDOFDeGOzY8Kuc.png?type=wide&r=3dt" width="652" alt="Mohamed SGHIR's Dev Card"/></a>
